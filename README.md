@@ -10,6 +10,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [bgreenlee][] (engineering at [Etsy][])
 - [coreyloose][] (engineering at Etsy Wholesale)
 - [gorsuch][] (engineering at [Simple][])
+- [kellegous][] (engineering at [Etsy][])
 - [mcfunley][] (engineering at Radico, Etsy old timer)
 - [vanvlack][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
@@ -18,6 +19,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 [bgreenlee]: https://twitter.com/bgreenlee
 [coreyloose]: https://twitter.com/coreyloose
 [gorsuch]: https://twitter.com/michaelgorsuch
+[kellegous]: http://twitter.com/kellegous
 [mcfunley]: https://twitter.com/mcfunley
 [vanvlack]: https://twitter.com/vanvlack
 [whilp]: https://twitter.com/whilp
