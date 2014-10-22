@@ -13,6 +13,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [mcfunley][] (engineering at Radico, Etsy old timer)
 - [vanvlack][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
+- [abackstrom][] (engineering at [Etsy])
 
 [asenchi]: https://twitter.com/asenchi
 [bgreenlee]: https://twitter.com/bgreenlee
@@ -21,6 +22,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 [mcfunley]: https://twitter.com/mcfunley
 [vanvlack]: https://twitter.com/vanvlack
 [whilp]: https://twitter.com/whilp
+[abackstrom]: https://twitter.com/abackstrom
 
 [Etsy]: https://etsy.com
 [Simple]: https://simple.com/
