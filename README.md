@@ -17,6 +17,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [umbrae][]* (engineering at [reddit][])
 - [vanvlack][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
+- [abackstrom][] (engineering at [Etsy])
 
 [asenchi]: https://twitter.com/asenchi
 [bgreenlee]: https://twitter.com/bgreenlee
@@ -29,6 +30,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 [umbrae]: https://twitter.com/chrisdary
 [vanvlack]: https://twitter.com/vanvlack
 [whilp]: https://twitter.com/whilp
+[abackstrom]: https://twitter.com/abackstrom
 
 [Etsy]: https://etsy.com
 [reddit]: https://www.reddit.com/
