@@ -12,6 +12,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [gorsuch][] (engineering at [Simple][])
 - [joekarl][] (engineering at [Simple][])
 - [mcfunley][] (engineering at Radico, Etsy old timer)
+- [dschott68][] (engineering at [Etsy][])
 - [vanvlack][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
 
@@ -21,6 +22,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 [gorsuch]: https://twitter.com/michaelgorsuch
 [joekarl]: https://twitter.com/joekarl
 [mcfunley]: https://twitter.com/mcfunley
+[dschott68]: https://twitter.com/dschott68
 [vanvlack]: https://twitter.com/vanvlack
 [whilp]: https://twitter.com/whilp
 
