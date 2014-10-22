@@ -11,6 +11,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [coreyloose][] (engineering at Etsy Wholesale)
 - [gorsuch][] (engineering at [Simple][])
 - [joekarl][] (engineering at [Simple][])
+- [kellegous][] (engineering at [Etsy][])
 - [mcfunley][] (engineering at Radico, Etsy old timer)
 - [dschott68][] (engineering at [Etsy][])
 - [umbrae][]* (engineering at [reddit][])
@@ -22,6 +23,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 [coreyloose]: https://twitter.com/coreyloose
 [gorsuch]: https://twitter.com/michaelgorsuch
 [joekarl]: https://twitter.com/joekarl
+[kellegous]: http://twitter.com/kellegous
 [mcfunley]: https://twitter.com/mcfunley
 [dschott68]: https://twitter.com/dschott68
 [umbrae]: https://twitter.com/chrisdary
