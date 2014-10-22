@@ -6,18 +6,19 @@ We are folks who work remotely for a variety of companies.
 
 Send whilp a PR if you'd like to let folks know who you are.
 
-- [whilp][] (engineering at [Simple][])
-- [mcfunley][] (engineering at Radico, Etsy old timer)
-- [coreyloose][] (engineering at Etsy Wholesale)
-- [bgreenlee][] (engineering at [Etsy][])
 - [asenchi][] (engineering at [Simple][])
+- [bgreenlee][] (engineering at [Etsy][])
+- [coreyloose][] (engineering at Etsy Wholesale)
 - [gorsuch][] (engineering at [Simple][])
+- [mcfunley][] (engineering at Radico, Etsy old timer)
+- [whilp][] (engineering at [Simple][])
 
-[whilp]: https://twitter.com/whilp
+[asenchi]: https://twitter.com/asenchi
 [bgreenlee]: https://twitter.com/bgreenlee
 [coreyloose]: https://twitter.com/coreyloose
-[mcfunley]: https://twitter.com/mcfunley
-[asenchi]: https://twitter.com/asenchi
 [gorsuch]: https://twitter.com/michaelgorsuch
-[Simple]: https://simple.com/
+[mcfunley]: https://twitter.com/mcfunley
+[whilp]: https://twitter.com/whilp
+
 [Etsy]: https://etsy.com
+[Simple]: https://simple.com/
