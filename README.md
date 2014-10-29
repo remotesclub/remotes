@@ -15,7 +15,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [joekarl][] (engineering at [Simple][])
 - [kellegous][] (engineering at [Etsy][])
 - [mcfunley][] (engineering at Radico, Etsy old timer)
-- [moishe][] (engineering at Etsy)
+- [moishe][] (engineering at [Etsy][])
 - [umbrae][]* (engineering at [reddit][])
 - [vanvlack][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
