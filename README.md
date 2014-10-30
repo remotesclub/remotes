@@ -16,6 +16,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [kellegous][] (engineering at [Etsy][])
 - [mcfunley][] (engineering at Radico, Etsy old timer)
 - [moishe][] (engineering at [Etsy][])
+- [tristans][] (engineering at [Etsy][])
 - [umbrae][]* (engineering at [reddit][])
 - [vanvlack][] (engineering at [Simple][])
 - [whilp][] (engineering at [Simple][])
@@ -30,6 +31,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 [kellegous]: http://twitter.com/kellegous
 [mcfunley]: https://twitter.com/mcfunley
 [moishe]: https://twitter.com/moishel
+[tristans]: https://twitter.com/tristans
 [umbrae]: https://twitter.com/chrisdary
 [vanvlack]: https://twitter.com/vanvlack
 [whilp]: https://twitter.com/whilp
