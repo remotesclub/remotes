@@ -11,6 +11,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 - [bgreenlee][] (engineering at [Etsy][])
 - [coreyloose][] (engineering at Etsy Wholesale)
 - [dschott68][] (engineering at [Etsy][])
+- [ecelis][] (developer at Mobile Corporation)
 - [gorsuch][] (engineering at [Simple][])
 - [joekarl][] (engineering at [Simple][])
 - [kellegous][] (engineering at [Etsy][])
@@ -26,6 +27,7 @@ Send whilp a PR if you'd like to let folks know who you are.
 [bgreenlee]: https://twitter.com/bgreenlee
 [coreyloose]: https://twitter.com/coreyloose
 [dschott68]: https://twitter.com/dschott68
+[ecelis]: https://twitter.com/celisdelafuente
 [gorsuch]: https://twitter.com/michaelgorsuch
 [joekarl]: https://twitter.com/joekarl
 [kellegous]: http://twitter.com/kellegous
