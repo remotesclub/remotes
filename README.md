@@ -1,6 +1,6 @@
 # `##remotes`
 
-We are folks who work remotely for a variety of companies.
+We are folks who work remotely for a variety of companies. We connect on ##remotes on freenode. See https://www.remotes.club/ and [remotesclub/remotes.club]
 
 ## Who we are
 
